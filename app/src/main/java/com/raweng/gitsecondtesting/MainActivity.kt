@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
         val f4= "f4"
         val f5= "f5"
         val f6= "f6"
+        val f8 = "f7"
 
     }
 }
